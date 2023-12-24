@@ -5,6 +5,6 @@ const Component = () => {
       123
     </div>
   )
-};
+}
 
-export default Component;
+export default Component
